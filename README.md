@@ -2,7 +2,7 @@
 
 I am a mostly self taught programmer that loves to tinker, program and do other nerdy stuff.
 
-If you are a recruiter. My resume is linked (here)[https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf].
+If you are a recruiter. My resume is linked [here](https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf).
 
 I am currently doing my thesis in robotics, path finding with a layer of machine learning. I hope to graduate in December of 2022
 
