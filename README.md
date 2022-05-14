@@ -2,7 +2,7 @@
 
 I am a mostly self-taught programmer that loves to tinker, program and do other nerdy stuff. I keep my resume up to date [here](https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf). I wish to go into the embedded, robotics, and machine learning field after I graduate from my masters in December of 2022.
 
-
+<!-- I relized how wordy this below is on the main page. 
 I recently graduated from the University of North Carolina at Charlotte (UNCC) with a B.S. in Computer Engineering and am currently pursuing an M.S. in Computer Engineering. I expect to graduate in December of 2022. I am working at my university as an IT System Administrator and am working there as I have an agreement with my superiors that allows me to have my master’s degree paid for. I main interest is in embedded, robotics, and machine-learning.
 
 
