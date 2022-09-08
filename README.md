@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I am a mostly self-taught programmer that loves to tinker, program and do other nerdy stuff. I keep my resume up to date [here](https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf). I wish to go into the embedded, robotics, and machine learning field after I graduate from my masters in December of 2022.
+I am a mostly self-taught programmer that loves to tinker, program and do other nerdy stuff. I keep my resume up to date [here](https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf). Currently, working on my thesis and hope to graduate in May of 2022 with my masters. Also working in the Aerospace industry as Embedded Software Engineer. I wish to continue to advance robotics and machine learning into the space age after I graduate. My other hobbies include weightlifting, backpacking, camping and playing video games with my friends. 
+
+- 🔭 I’m currently working on my thesis in motion planning and pathfinding
+- 🌱 I’m currently learning machine learning topics
+- 📫 How to reach me: Email on the left side of this page!
+- 😄 Pronouns: He/Him
+<!-- - 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... 
+- ⚡ Fun fact: ... -->
+
 
 <!-- I relized how wordy this below is on the main page. 
 I recently graduated from the University of North Carolina at Charlotte (UNCC) with a B.S. in Computer Engineering and am currently pursuing an M.S. in Computer Engineering. I expect to graduate in December of 2022. I am working at my university as an IT System Administrator and am working there as I have an agreement with my superiors that allows me to have my master’s degree paid for. I main interest is in embedded, robotics, and machine-learning.
