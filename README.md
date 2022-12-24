@@ -1,15 +1,28 @@
 ### Hi there 👋
 
-I am a mostly self-taught programmer that loves to tinker, program and do other nerdy stuff. I keep my resume up to date [here](https://github.com/aryan-gupta/CurriculumVitae-Resume/blob/master/Resume.pdf). Currently, working on my thesis and hope to graduate in May of 2022 with my masters. Also working in the Aerospace industry as Embedded Software Engineer. I wish to continue to advance robotics and machine learning into the space age after I graduate. My other hobbies include weightlifting, backpacking, camping and playing video games with my friends. 
+#### Links
+[My Resume](https://github.com/aryan-gupta/resume/blob/master/Resume.pdf)
+&nbsp;&emsp;&ensp;&nbsp;&emsp;&ensp;&nbsp;&emsp;&ensp;
+[My WIP "Autobiography"](https://github.com/aryan-gupta/life-doc)
 
-- 🔭 I’m currently working on my thesis in motion planning and pathfinding
-- 🌱 I’m currently learning machine learning topics
+#### Summary
+I am a mostly self-taught programmer that loves to tinker, explore and think about this unfathomably large universe. Currently, I am researching and developing my thesis in autonomous robotics and path finding. I hope to graduate in May of 2023 with my masters. I am also working in the aerospace industry as an Embedded Software Engineer at ENSCO Avionics. I follow the [optimistic nihilism](https://youtu.be/MBRqu0YOH14) philosophy and my life goal is to advance robotics, machine learning, and humanity into the space age. My other hobbies include weightlifting, backpacking and playing video games with my friends. I am always open to filling my mind with new knowledge and using it to think about big topics such as existential physics, humanity's future on the Kardashev scale, the start of the artificial general intelligence revolution, and of course, the Fermi paradox.
+
+
+#### TL;DR
+- 💼 Working at ENSCO Avionics as a Embedded Software Engineer
+- 🔭 Working on my master's thesis in robotics and pathfinding
+- 🌳 Learning existential physics (without the math :P)
+- 🌱 Want to learn neurobiology and artificial intelligence topics
 - 📫 How to reach me: Email on the left side of this page!
 - 😄 Pronouns: He/Him
-<!-- - 👯 I’m looking to collaborate on ... 
+<!-- 
+- 👯 I’m looking to collaborate on ... 
+- 🎉 I just finished
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+-->
 
 
 <!-- I relized how wordy this below is on the main page. 
