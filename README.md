@@ -1,6 +1,7 @@
 <!--### Hello there 👋-->
-
+<p align="center">
 <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/06/hellotherethumb.jpg" alt="hello there general kenobi meme" width="400"/>
+</p>
 
 #### Links
 [My Resume](https://github.com/aryan-gupta/resume/blob/master/Resume.pdf)
